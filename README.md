@@ -40,7 +40,7 @@ output:
 1 2 3  
 
 ## Measurements
-Measurements were made in commit `db847a1d`. Matrix size was 2000x2000. Matrices contained values between -1000 and 1000.  
+Matrix size was 2000x2000. Matrices contained values between -1000 and 1000.  
 **Hardware**: Intel Core i5 1135G7 (4 cores), CPU clock speed 4.2 GHz  
 5 measurements were made in multithreading and in single-threaded mode as well.  
 One thread: 26050ms, 24927ms, 23311ms, 24725ms, 25079ms. Mean value is **24818,4ms**  
