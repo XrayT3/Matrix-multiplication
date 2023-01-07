@@ -46,6 +46,3 @@ Measurements were made in commit `db847a1d`. Matrix size was 2000x2000. Matrices
 One thread: 26050ms, 24927ms, 23311ms, 24725ms, 25079ms. Mean value is **24818,4ms**  
 Multithreading: 12590ms, 12387ms, 12272ms, 12225ms, 12454ms. Mean value is **12385,6ms**  
 Therefore multithreading is **2 times faster**.
-
-## Support
-Feel free to contact me via email(lariovia@fel.cvut.cz) if you have any difficulties. 
